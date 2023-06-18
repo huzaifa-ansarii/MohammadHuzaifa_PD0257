@@ -71,8 +71,8 @@ public class ReminderServiceImpl {
     
     
     // Your Twilio account credentials
-    public static final String ACCOUNT_SID = "AC6d520e72e1b1395a82b9184dd65ac261";
-    public static final String AUTH_TOKEN = "c8031f7c8a43b091402421f7d0b4273b";
+    public static final String ACCOUNT_SID = "AC1236d520e72e1b1395a82b9184dd65ac261";
+    public static final String AUTH_TOKEN = "123c8031f7c8a43b091402421f7d0b4273b";
 
     public static void smsReminder(String medicine){
     	
